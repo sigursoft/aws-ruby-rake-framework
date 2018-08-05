@@ -1,2 +1,2 @@
-demeter-test-mj-cloudfront
-demeter-test-microservice-core-configuration
+project-test-spa-cloudfront
+project-test-microservice-core-configuration
