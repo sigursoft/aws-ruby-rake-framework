@@ -1,0 +1,2 @@
+demeter-test-mj-cloudfront
+demeter-test-microservice-core-configuration
